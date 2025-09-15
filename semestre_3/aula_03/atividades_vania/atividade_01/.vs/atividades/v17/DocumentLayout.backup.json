@@ -1,12 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kaiqs\\Desktop\\a\\atividades\\",
+  "WorkspaceRootPath": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_01\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{33AE63AB-6234-4942-9AC7-0BC9884AF66D}|..\\atividade_02\\atividade_02.csproj|c:\\users\\kaiqs\\desktop\\a\\atividade_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4348C3-6F40-4EE7-8633-2923B9F45DD1}|atividade_01.csproj|c:\\users\\kaiqs\\desktop\\a\\atividades\\atividade_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CD4348C3-6F40-4EE7-8633-2923B9F45DD1}|atividade_01.csproj|c:\\users\\kaiqs\\desktop\\a\\atividade_01\\atividade_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CD4348C3-6F40-4EE7-8633-2923B9F45DD1}|atividade_01.csproj|solutionrelative:atividade_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "..\\atividade_02\\Program.cs",
               "ToolTip": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_02\\Program.cs",
               "RelativeToolTip": "..\\atividade_02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T01:52:56.704Z",
               "EditorCaption": ""
@@ -238,9 +238,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "atividade_01.csproj",
-              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\a\\atividades\\atividade_01.csproj",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_01\\atividade_01.csproj",
               "RelativeDocumentMoniker": "atividade_01.csproj",
-              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\a\\atividades\\atividade_01.csproj",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\a\\atividade_01\\atividade_01.csproj",
               "RelativeToolTip": "atividade_01.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
