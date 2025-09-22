@@ -9,7 +9,7 @@ namespace exercicio_vania
     internal class Fabrica
     {
         public string Nome { get; set; }
-        public ICollection<Maquina> Maquinas { get; }
+        public ICollection<Maquina> Maquinas { get; } = new List<Maquina>();
 
         public void AdicionarMaquina(Maquina maquina) 
         {
@@ -19,9 +19,8 @@ namespace exercicio_vania
         public Fabrica(string nomeFabrica, string modelo, string hora, string nome, DateTime data) 
         { 
             Nome = nomeFabrica;
-            Maquinas = new List<Maquina>();
-
             Maquina maquina = new Maquina(modelo, hora, nome, data);
+
             AdicionarMaquina(maquina);
         }
 
@@ -42,6 +41,8 @@ namespace exercicio_vania
 
         public Maquina BuscarMaquinaPorModelo(string modelo) 
         {
+            // ICollection não permite dar FIND. Para isso, é preciso transformar em lista
+            // Exemplo: var lista = MaquinasFabrica.ToList()
             return Maquinas.FirstOrDefault((maq) => maq.Modelo == modelo);
         }
     }

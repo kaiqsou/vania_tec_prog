@@ -26,10 +26,12 @@ namespace exercicio_vania
             if (maquina != null)
             {
                 Console.WriteLine($"{Nome} agora está operando a máquina modelo {modelo}!");
-                return;
+                await Task.Delay(3000);
             }
-
-            Console.WriteLine($"Máquina modelo {modelo} não encontrada na fábrica {fabrica.Nome}");
+            else
+            {
+                Console.WriteLine($"Máquina modelo {modelo} não encontrada na fábrica {fabrica.Nome}");
+            }
         }
     }
 }

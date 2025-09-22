@@ -12,7 +12,7 @@ namespace exercicio_vania
         public string HoraOperacao { get; set; }
 
         // Apenas LEITURA (readOnly) - criar atributo privado para mexer no público
-        private readonly Guid numeroserie;
+        private readonly Guid numeroserie = Guid.NewGuid();
         public Guid NumeroSerie { get; }
 
         // Apenas SET (writeOnly)
