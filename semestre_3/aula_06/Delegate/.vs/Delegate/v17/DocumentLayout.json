@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_06\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA2836-C583-4428-A0D7-82B9110640EF}|02_Delegate_Evento\\02_Delegate_Evento.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_06\\delegate\\02_delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA2836-C583-4428-A0D7-82B9110640EF}|02_Delegate_Evento\\02_Delegate_Evento.csproj|solutionrelative:02_delegate_evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233E0536-5EEF-4D41-9470-BE4A6F12BC7F}|Delegate\\Delegate.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_06\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233E0536-5EEF-4D41-9470-BE4A6F12BC7F}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233E0536-5EEF-4D41-9470-BE4A6F12BC7F}|Delegate\\01_Delegate.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_06\\delegate\\delegate\\01_delegate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{233E0536-5EEF-4D41-9470-BE4A6F12BC7F}|Delegate\\01_Delegate.csproj|solutionrelative:delegate\\01_delegate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_06\\Delegate\\02_Delegate_Evento\\Program.cs",
+              "RelativeDocumentMoniker": "02_Delegate_Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_06\\Delegate\\02_Delegate_Evento\\Program.cs",
+              "RelativeToolTip": "02_Delegate_Evento\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:04:07.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01_Delegate.csproj",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_06\\Delegate\\Delegate\\01_Delegate.csproj",
+              "RelativeDocumentMoniker": "Delegate\\01_Delegate.csproj",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_06\\Delegate\\Delegate\\01_Delegate.csproj",
+              "RelativeToolTip": "Delegate\\01_Delegate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T13:03:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_06\\Delegate\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_06\\Delegate\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:52:13.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
