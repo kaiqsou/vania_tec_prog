@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_07\\atividadesdelegate\\atividadesdelegate\\participacaoregistrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|solutionrelative:atividadesdelegate\\participacaoregistrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_07\\atividadesdelegate\\atividadesdelegate\\registroeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|solutionrelative:atividadesdelegate\\registroeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_07\\atividadesdelegate\\atividadesdelegate\\registroacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|solutionrelative:atividadesdelegate\\registroacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_07\\atividadesdelegate\\atividadesdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|solutionrelative:atividadesdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_07\\atividadesdelegate\\atividadesdelegate\\participacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38114D8C-4B23-45E2-B2E3-48A64069F956}|AtividadesDelegate\\AtividadesDelegate.csproj|solutionrelative:atividadesdelegate\\participacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\RegistroEventArgs.cs",
+              "RelativeDocumentMoniker": "AtividadesDelegate\\RegistroEventArgs.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\RegistroEventArgs.cs",
+              "RelativeToolTip": "AtividadesDelegate\\RegistroEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:34:43.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticipacaoRegistrada.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\ParticipacaoRegistrada.cs",
+              "RelativeDocumentMoniker": "AtividadesDelegate\\ParticipacaoRegistrada.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\ParticipacaoRegistrada.cs*",
+              "RelativeToolTip": "AtividadesDelegate\\ParticipacaoRegistrada.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:29:39.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\RegistroAcademico.cs",
+              "RelativeDocumentMoniker": "AtividadesDelegate\\RegistroAcademico.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\RegistroAcademico.cs",
+              "RelativeToolTip": "AtividadesDelegate\\RegistroAcademico.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:51:24.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Participacao.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\Participacao.cs",
+              "RelativeDocumentMoniker": "AtividadesDelegate\\Participacao.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\Participacao.cs",
+              "RelativeToolTip": "AtividadesDelegate\\Participacao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:51:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "AtividadesDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_07\\AtividadesDelegate\\AtividadesDelegate\\Program.cs",
+              "RelativeToolTip": "AtividadesDelegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:40:09.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
