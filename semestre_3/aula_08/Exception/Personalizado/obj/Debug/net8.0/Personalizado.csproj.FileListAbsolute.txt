@@ -1,0 +1,15 @@
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\bin\Debug\net8.0\Personalizado.exe
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\bin\Debug\net8.0\Personalizado.deps.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\bin\Debug\net8.0\Personalizado.runtimeconfig.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\bin\Debug\net8.0\Personalizado.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\bin\Debug\net8.0\Personalizado.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\Personalizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\Personalizado.AssemblyInfoInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\Personalizado.AssemblyInfo.cs
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\Personalizado.csproj.CoreCompileInputs.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\Personalizado.sourcelink.json
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\Personalizado.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\refint\Personalizado.dll
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\Personalizado.pdb
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\Personalizado.genruntimeconfig.cache
+C:\Users\0201392321040\Desktop\vania_tec_prog\semestre_3\aula_08\Exception\Personalizado\obj\Debug\net8.0\ref\Personalizado.dll

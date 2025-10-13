@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2A9A2-5B2E-485A-A206-4DCFF35002F6}|Personalizado\\Personalizado.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\exception\\personalizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2A9A2-5B2E-485A-A206-4DCFF35002F6}|Personalizado\\Personalizado.csproj|solutionrelative:personalizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09EAC03-A76D-41B2-BB64-A5B5C55477AA}|HTTP\\HTTP.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\exception\\http\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09EAC03-A76D-41B2-BB64-A5B5C55477AA}|HTTP\\HTTP.csproj|solutionrelative:http\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB724DA-5FFB-467F-837A-4756B7D0DD2B}|Throw\\Throw.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\exception\\throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB724DA-5FFB-467F-837A-4756B7D0DD2B}|Throw\\Throw.csproj|solutionrelative:throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45BED7C-BDFD-4DC8-970A-1862B5376E9D}|Excecao\\TryCatch.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\exception\\excecao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45BED7C-BDFD-4DC8-970A-1862B5376E9D}|Excecao\\TryCatch.csproj|solutionrelative:excecao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\Personalizado\\Program.cs",
+              "RelativeDocumentMoniker": "Personalizado\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\Personalizado\\Program.cs",
+              "RelativeToolTip": "Personalizado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:45:29.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\HTTP\\Program.cs",
+              "RelativeDocumentMoniker": "HTTP\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\HTTP\\Program.cs",
+              "RelativeToolTip": "HTTP\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:56:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\Throw\\Program.cs",
+              "RelativeDocumentMoniker": "Throw\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\Throw\\Program.cs",
+              "RelativeToolTip": "Throw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:33:26.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\Excecao\\Program.cs",
+              "RelativeDocumentMoniker": "Excecao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Exception\\Excecao\\Program.cs",
+              "RelativeToolTip": "Excecao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:15:58.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
