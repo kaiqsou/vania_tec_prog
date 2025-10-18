@@ -1,0 +1,15 @@
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\bin\Debug\net6.0\Atividade_04.exe
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\bin\Debug\net6.0\Atividade_04.deps.json
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\bin\Debug\net6.0\Atividade_04.runtimeconfig.json
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\bin\Debug\net6.0\Atividade_04.dll
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\bin\Debug\net6.0\Atividade_04.pdb
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\Atividade_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\Atividade_04.AssemblyInfoInputs.cache
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\Atividade_04.AssemblyInfo.cs
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\Atividade_04.csproj.CoreCompileInputs.cache
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\Atividade_04.sourcelink.json
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\Atividade_04.dll
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\refint\Atividade_04.dll
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\Atividade_04.pdb
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\Atividade_04.genruntimeconfig.cache
+C:\Users\kaiqs\Desktop\vania_tec_prog\semestre_3\aula_08\Atividades\Atividade_04\obj\Debug\net6.0\ref\Atividade_04.dll

@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\",
+  "WorkspaceRootPath": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4BA6BBE-EC1D-4A63-8368-9C7C42BD1DAF}|Atividade_01\\Atividade_01.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\atividades\\atividade_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BA6BBE-EC1D-4A63-8368-9C7C42BD1DAF}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8BD3B33-0DCA-4D7C-BCC5-072200C81C8F}|Atividade_02\\Atividade_02.csproj|c:\\users\\kaiqs\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\atividades\\atividade_02\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BD3B33-0DCA-4D7C-BCC5-072200C81C8F}|Atividade_02\\Atividade_02.csproj|solutionrelative:atividade_02\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BA6BBE-EC1D-4A63-8368-9C7C42BD1DAF}|Atividade_01\\Atividade_01.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\atividades\\atividade_01\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BA6BBE-EC1D-4A63-8368-9C7C42BD1DAF}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6214B6-EEC2-43CE-8166-AA8C305789F8}|Atividade_05\\Atividade_05.csproj|c:\\users\\kaiqs\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\atividades\\atividade_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6214B6-EEC2-43CE-8166-AA8C305789F8}|Atividade_05\\Atividade_05.csproj|solutionrelative:atividade_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BA6BBE-EC1D-4A63-8368-9C7C42BD1DAF}|Atividade_01\\Atividade_01.csproj|c:\\users\\0201392321040\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\atividades\\atividade_01\\prova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BA6BBE-EC1D-4A63-8368-9C7C42BD1DAF}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\prova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6214B6-EEC2-43CE-8166-AA8C305789F8}|Atividade_05\\Atividade_05.csproj|c:\\users\\kaiqs\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\atividades\\atividade_05\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6214B6-EEC2-43CE-8166-AA8C305789F8}|Atividade_05\\Atividade_05.csproj|solutionrelative:atividade_05\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC09EBCB-6BDF-4C82-A223-DC0CC9D8673B}|Atividade_04\\Atividade_04.csproj|c:\\users\\kaiqs\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\atividades\\atividade_04\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC09EBCB-6BDF-4C82-A223-DC0CC9D8673B}|Atividade_04\\Atividade_04.csproj|solutionrelative:atividade_04\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC09EBCB-6BDF-4C82-A223-DC0CC9D8673B}|Atividade_04\\Atividade_04.csproj|c:\\users\\kaiqs\\desktop\\vania_tec_prog\\semestre_3\\aula_08\\atividades\\atividade_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC09EBCB-6BDF-4C82-A223-DC0CC9D8673B}|Atividade_04\\Atividade_04.csproj|solutionrelative:atividade_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,41 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Prova.cs",
-              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_01\\Prova.cs",
-              "RelativeDocumentMoniker": "Atividade_01\\Prova.cs",
-              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_01\\Prova.cs",
-              "RelativeToolTip": "Atividade_01\\Prova.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_05\\Produto.cs",
+              "RelativeDocumentMoniker": "Atividade_05\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_05\\Produto.cs",
+              "RelativeToolTip": "Atividade_05\\Produto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T13:41:03.7Z",
+              "WhenOpened": "2025-10-16T19:45:41.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_01\\Aluno.cs",
-              "RelativeDocumentMoniker": "Atividade_01\\Aluno.cs",
-              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_01\\Aluno.cs",
-              "RelativeToolTip": "Atividade_01\\Aluno.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_05\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade_05\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_05\\Program.cs",
+              "RelativeToolTip": "Atividade_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T13:40:06.744Z",
+              "WhenOpened": "2025-10-16T19:45:13.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_01\\Program.cs",
-              "RelativeDocumentMoniker": "Atividade_01\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392321040\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_01\\Program.cs",
-              "RelativeToolTip": "Atividade_01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_02\\Produto.cs",
+              "RelativeDocumentMoniker": "Atividade_02\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_02\\Produto.cs",
+              "RelativeToolTip": "Atividade_02\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T13:39:14.76Z",
+              "WhenOpened": "2025-10-15T20:50:59.631Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_04\\Produto.cs",
+              "RelativeDocumentMoniker": "Atividade_04\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_04\\Produto.cs",
+              "RelativeToolTip": "Atividade_04\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:48:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_04\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade_04\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_04\\Program.cs",
+              "RelativeToolTip": "Atividade_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:48:37.591Z"
             }
           ]
         }

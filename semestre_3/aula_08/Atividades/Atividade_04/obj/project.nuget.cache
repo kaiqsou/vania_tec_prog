@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ovjB1nrkdI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiqs\\Desktop\\vania_tec_prog\\semestre_3\\aula_08\\Atividades\\Atividade_04\\Atividade_04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiqs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kaiqs\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kaiqs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kaiqs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
