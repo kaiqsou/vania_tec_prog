@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7F1314-1671-45F9-BC75-B23C4BD3CF49}|Exercicio03\\Exercicio03.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio03\\notificacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7F1314-1671-45F9-BC75-B23C4BD3CF49}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\notificacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F92085-114D-47C4-826B-E3D28ED7DAF5}|Exercicio04\\Exercicio04.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F92085-114D-47C4-826B-E3D28ED7DAF5}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F92085-114D-47C4-826B-E3D28ED7DAF5}|Exercicio04\\Exercicio04.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio04\\catalogoprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F92085-114D-47C4-826B-E3D28ED7DAF5}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\catalogoprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F92085-114D-47C4-826B-E3D28ED7DAF5}|Exercicio04\\Exercicio04.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio04\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F92085-114D-47C4-826B-E3D28ED7DAF5}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F92085-114D-47C4-826B-E3D28ED7DAF5}|Exercicio04\\Exercicio04.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio04\\geradorrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F92085-114D-47C4-826B-E3D28ED7DAF5}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\geradorrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D737801-CEE6-49D3-B0FB-A5F588AFD14F}|Exercicio05\\Exercicio05.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio05\\centraldeocorrencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D737801-CEE6-49D3-B0FB-A5F588AFD14F}|Exercicio05\\Exercicio05.csproj|solutionrelative:exercicio05\\centraldeocorrencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D737801-CEE6-49D3-B0FB-A5F588AFD14F}|Exercicio05\\Exercicio05.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D737801-CEE6-49D3-B0FB-A5F588AFD14F}|Exercicio05\\Exercicio05.csproj|solutionrelative:exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D737801-CEE6-49D3-B0FB-A5F588AFD14F}|Exercicio05\\Exercicio05.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio05\\ocorrenciasouvinte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D737801-CEE6-49D3-B0FB-A5F588AFD14F}|Exercicio05\\Exercicio05.csproj|solutionrelative:exercicio05\\ocorrenciasouvinte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D737801-CEE6-49D3-B0FB-A5F588AFD14F}|Exercicio05\\Exercicio05.csproj|c:\\users\\kaiqs\\desktop\\estudo_vania\\lista_ex_tecnicas\\listaexercicios\\exercicio05\\ocorrencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D737801-CEE6-49D3-B0FB-A5F588AFD14F}|Exercicio05\\Exercicio05.csproj|solutionrelative:exercicio05\\ocorrencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogoProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio04\\CatalogoProdutos.cs",
+              "RelativeDocumentMoniker": "Exercicio04\\CatalogoProdutos.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio04\\CatalogoProdutos.cs",
+              "RelativeToolTip": "Exercicio04\\CatalogoProdutos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:36:07.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio04\\Produto.cs",
+              "RelativeDocumentMoniker": "Exercicio04\\Produto.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio04\\Produto.cs",
+              "RelativeToolTip": "Exercicio04\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:35:18.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeradorRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio04\\GeradorRelatorio.cs",
+              "RelativeDocumentMoniker": "Exercicio04\\GeradorRelatorio.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio04\\GeradorRelatorio.cs",
+              "RelativeToolTip": "Exercicio04\\GeradorRelatorio.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:33:58.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio04\\Program.cs",
+              "RelativeToolTip": "Exercicio04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:29:18.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notificacoes.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio03\\Notificacoes.cs",
+              "RelativeDocumentMoniker": "Exercicio03\\Notificacoes.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio03\\Notificacoes.cs",
+              "RelativeToolTip": "Exercicio03\\Notificacoes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:50:31.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OcorrenciasOuvinte.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio05\\OcorrenciasOuvinte.cs",
+              "RelativeDocumentMoniker": "Exercicio05\\OcorrenciasOuvinte.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio05\\OcorrenciasOuvinte.cs",
+              "RelativeToolTip": "Exercicio05\\OcorrenciasOuvinte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:50:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ocorrencia.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio05\\Ocorrencia.cs",
+              "RelativeDocumentMoniker": "Exercicio05\\Ocorrencia.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio05\\Ocorrencia.cs",
+              "RelativeToolTip": "Exercicio05\\Ocorrencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:33:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio05\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio05\\Program.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio05\\Program.cs",
+              "RelativeToolTip": "Exercicio05\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:30:34.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CentralDeOcorrencias.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio05\\CentralDeOcorrencias.cs",
+              "RelativeDocumentMoniker": "Exercicio05\\CentralDeOcorrencias.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Estudo_Vania\\Lista_Ex_Tecnicas\\ListaExercicios\\Exercicio05\\CentralDeOcorrencias.cs",
+              "RelativeToolTip": "Exercicio05\\CentralDeOcorrencias.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:33:37.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
